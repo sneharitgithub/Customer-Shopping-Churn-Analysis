@@ -1,6 +1,6 @@
-Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
-Project Overview
+## Project Overview
 
 This end-to-end Data Analytics project analyzes customer shopping behavior to uncover purchasing patterns, customer segments, subscription impact, product performance, and revenue drivers.
 
@@ -8,7 +8,7 @@ The project combines Python, SQL, and Power BI to transform raw customer transac
 
 ⸻
 
-Objectives
+## Objectives
 
 * Analyze customer purchasing behavior
 * Identify high-value customers
@@ -19,7 +19,7 @@ Objectives
 
 ⸻
 
-Tools & Technologies
+## Tools & Technologies
 
 * Python
     * Pandas
@@ -30,11 +30,11 @@ Tools & Technologies
 
 ⸻
 
-Dataset Information
+## Dataset Information
 
 The dataset contains customer demographic information, purchase behavior, product details, subscription status, payment methods, shipping preferences, and review ratings.
 
-Key Features
+## Key Features
 
 * Customer ID
 * Age
@@ -52,9 +52,9 @@ Key Features
 
 ⸻
 
-Project Workflow
+## Project Workflow
 
-Phase 1: Data Cleaning & Preparation (Python)
+### Phase 1: Data Cleaning & Preparation (Python)
 
 * Removed inconsistencies
 * Created Age Groups
@@ -62,7 +62,7 @@ Phase 1: Data Cleaning & Preparation (Python)
 * Performed data quality checks
 * Exported cleaned dataset
 
-Phase 2: Business Analysis (SQL)
+### Phase 2: Business Analysis (SQL)
 
 * Customer Segmentation
 * Revenue Analysis
@@ -70,7 +70,7 @@ Phase 2: Business Analysis (SQL)
 * Product Performance Analysis
 * Churn Insights
 
-Phase 3: Interactive Dashboard (Power BI)
+### Phase 3: Interactive Dashboard (Power BI)
 
 * Revenue KPIs
 * Customer Insights
@@ -80,7 +80,7 @@ Phase 3: Interactive Dashboard (Power BI)
 
 ⸻
 
-Key Business Questions
+## Key Business Questions
 
 1. Which gender generates the highest revenue?
 2. Which customers spend above average despite using discounts?
@@ -95,7 +95,7 @@ Key Business Questions
 
 ⸻
 
-Repository Structure
+## Repository Structure
 
 * Python → Data Cleaning & EDA
 * SQL → Business Queries & Insights
@@ -104,6 +104,6 @@ Repository Structure
 
 ⸻
 
-Author
-Sneha Gubrele
+## Author
+## Sneha Gubrele
 
