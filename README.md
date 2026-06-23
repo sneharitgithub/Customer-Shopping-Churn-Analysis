@@ -2,11 +2,13 @@
 
 ## Project Overview
 
-This end-to-end Data Analytics project analyzes customer shopping behavior to uncover purchasing patterns, customer segments, subscription impact, product performance, and revenue drivers.
+This project explores customer shopping behavior using transaction-level retail data. The analysis focuses on identifying purchasing patterns, customer segments, subscription impact, product performance, and revenue drivers.
 
-The project combines Python, SQL, and Power BI to transform raw customer transaction data into actionable business insights.
+Using Python for data preparation, SQL for business analysis, and Power BI for visualization, the project transforms raw customer data into meaningful insights that can support marketing, retention, and sales strategies.
 
-⸻
+Rather than simply reporting metrics, the goal is to uncover actionable business insights that help understand customer preferences, spending habits, and factors influencing repeat purchases.
+
+---
 
 ## Objectives
 
@@ -17,7 +19,7 @@ The project combines Python, SQL, and Power BI to transform raw customer transac
 * Understand seasonal sales trends
 * Generate business recommendations through data-driven insights
 
-⸻
+---
 
 ## Tools & Technologies
 
@@ -28,7 +30,7 @@ The project combines Python, SQL, and Power BI to transform raw customer transac
 * Google Colab
 * GitHub
 
-⸻
+---
 
 ## Dataset Information
 
@@ -50,7 +52,7 @@ The dataset contains customer demographic information, purchase behavior, produc
 * Previous Purchases
 * Purchase Frequency
 
-⸻
+---
 
 ## Project Workflow
 
@@ -78,7 +80,7 @@ The dataset contains customer demographic information, purchase behavior, produc
 * Product Performance
 * Purchase Trends
 
-⸻
+---
 
 ## Key Business Questions
 
@@ -93,17 +95,43 @@ The dataset contains customer demographic information, purchase behavior, produc
 9. Who are the top spending customers?
 10. Which category generates the highest revenue per customer?
 
-⸻
+---
 
-## Repository Structure
+## How to Run
 
-* Python → Data Cleaning & EDA
-* SQL → Business Queries & Insights
-* Power BI → Dashboard
-* Dataset → Source Data
+1. Open the Python notebook in Google Colab.
 
-⸻
+2. Run the data cleaning and preprocessing steps.
+
+3. Import the cleaned dataset into MySQL.
+
+4. Execute SQL analysis scripts.
+
+5. Open the Power BI dashboard file for visualization.
+
+---
 
 ## Author
-## Sneha Gubrele
+
+This project was created as part of my Data Analytics portfolio to demonstrate skills in:
+
+- Python (Pandas)
+
+- SQL (MySQL)
+
+- Power BI
+
+- Data Cleaning
+
+- Business Analysis
+
+**Built by Sneha Gubrele**
+
+---
+
+📧 Email: snehagubrele55@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/snehagubrele55/
+
+⭐ If you found this project interesting, feel free to star the repository.
 
