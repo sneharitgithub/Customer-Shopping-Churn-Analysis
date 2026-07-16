@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# ChurnLens: Customer Retention Analytics | Python, SQL
 
 ## Project Overview
 
@@ -26,7 +26,6 @@ Rather than simply reporting metrics, the goal is to uncover actionable business
 * Python
     * Pandas
 * SQL (MySQL)
-* Power BI
 * Google Colab
 * GitHub
 
@@ -72,14 +71,6 @@ The dataset contains customer demographic information, purchase behavior, produc
 * Product Performance Analysis
 * Churn Insights
 
-### Phase 3: Interactive Dashboard (Power BI)
-
-* Revenue KPIs
-* Customer Insights
-* Subscription Metrics
-* Product Performance
-* Purchase Trends
-
 ---
 
 ## Key Business Questions
@@ -107,8 +98,6 @@ The dataset contains customer demographic information, purchase behavior, produc
 
 4. Execute SQL analysis scripts.
 
-5. Open the Power BI dashboard file for visualization.
-
 ---
 
 ## Author
@@ -118,8 +107,6 @@ This project was created as part of my Data Analytics portfolio to demonstrate s
 - Python (Pandas)
 
 - SQL (MySQL)
-
-- Power BI
 
 - Data Cleaning
 
